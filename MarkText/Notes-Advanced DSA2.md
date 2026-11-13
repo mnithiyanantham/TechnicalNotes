@@ -8,11 +8,9 @@
 
 **Common psedocode:**
 
-·         Divide search space into 2 parts
-
-·         Based on some condition, repeatedly ignore<mark> one half of the search space</mark>.
-
-·         Till we get answer or no search space is left
+* Divide search space into 2 parts
+* Based on some condition, repeatedly ignore<mark> one half of the search space</mark>.
+* Till we get answer or no search space is left
 
 ·       :bulb: **NOTE**  <mark>At each step, search space is halved</mark> 
 
